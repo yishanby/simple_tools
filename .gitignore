@@ -6,3 +6,5 @@ Tools/Tools/obj/
 Tools/GraphTextMix/obj/
 Tools/GraphTextMix/bin/
 Tools/Tools/bin/
+Tools/Tools.Tests/obj/
+Tools/Tools.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Tools.Tests
